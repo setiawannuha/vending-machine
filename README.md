@@ -36,3 +36,5 @@
     -   `php artisan serve`
 
 ## Documentation
+
+https://api.postman.com/collections/25097979-d3040d32-828f-4157-af84-b313a5c531a1?access_key=PMAT-01H2X0JMC25Q0QSJTS4TGHZV5F
